@@ -9,3 +9,8 @@ applications:
     REGISTRATION_SERVER_ENDPOINT: http://registration-pal-sritee.apps.pikes.pal.pivotal.io
   services:
   - tracker-backlog-database
+<<<<<<< HEAD
+=======
+  - tracker-service-registry
+  - tracker-circuit-breaker-dashboard
+>>>>>>> 63bd288... Enable circuit breaker
